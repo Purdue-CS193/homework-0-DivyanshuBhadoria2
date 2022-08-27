@@ -1,3 +1,9 @@
+# Divyanshu Bhadoria's First CS193 Homework
+
+- That PSO's are offered if I need help
+- That the teachers offer advice from their experience
+- The class teaches useful tools
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
